@@ -14,3 +14,27 @@ NVIDIA GPU + CUDA CuDNN
 ## Demo-
 Demo- files is used to verify the effectiveness of the local class region guidance strategy on diffusers. It can be trained directly.
 
+## Code download link for the control group
+AttentionGAN: Training and Testing are followed by https://github.com/Ha0Tang/AttentionGAN.
+
+Pix2Pix: Training and Testing are followed by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
+
+CycleGAN: Training and Testing are followed by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
+
+BicycleGAN: Training and Testing are followed by https://github.com/junyanz/BicycleGAN.
+
+GCGAN: Training and Testing are followed by https://github.com/hufu6371/GcGAN.
+
+DCLGAN: Training and Testing are followed by https://github.com/JunlinHan/DCLGAN.
+
+CUT: Training and Testing are followed by https://github.com/taesungp/contrastive-unpaired-translation.
+
+UNIT: Training and Testing are followed by https://github.com/mingyuliutw/UNIT.
+
+MUNIT: Training and Testing are followed by https://github.com/NVlabs/MUNIT.
+
+DRIT: Training and Testing are followed by https://github.com/HsinYingLee/DRIT.
+
+MSGAN: Training and Testing are followed by https://github.com/HelenMao/MSGAN.
+
+Conditional-GAN: Training and Testing are followed by https://github.com/huggingface/diffusers.
