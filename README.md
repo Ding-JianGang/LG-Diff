@@ -11,3 +11,6 @@ NVIDIA GPU + CUDA CuDNN
 
 ## Dataset
 
+## Demo-
+Demo- files is used to verify the effectiveness of the local class region guidance strategy on diffusers. It can be trained directly.
+
