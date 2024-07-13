@@ -14,7 +14,9 @@ Demo- files is used to verify the effectiveness of the local class region guidan
 
 ## Aligned and unaligned videos
 For image translation tasks, unaligned video streams can only be achieved in an unsupervised or non-regression manner. In contrast, for regression models to perform better, it is usually required that cross-modal video streams appear in pairs.
+* An example of an unaligned video stream.
 ![An example of an unaligned video stream](https://github.com/Ding-JianGang/LG-Diff/blob/main/image/unalign.gif)
+* An example of an aligned video stream.
 ![An example of an aligned video stream](https://github.com/Ding-JianGang/LG-Diff/blob/main/image/align.gif)
 
 ## Result
