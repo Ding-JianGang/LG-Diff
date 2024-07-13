@@ -17,6 +17,9 @@ For image translation tasks, unaligned video streams can only be achieved in an 
 ![An example of an unaligned video stream](https://github.com/Ding-JianGang/LG-Diff/blob/main/image/unalign.gif)
 ![An example of an aligned video stream](https://github.com/Ding-JianGang/LG-Diff/blob/main/image/align.gif)
 
+## Result
+Visual comparisons on unknown challenging instances from InfraredCoast.
+![Visual comparisons on unknown challenging instances from InfraredCoast.]([https://github.com/Ding-JianGang/LG-Diff/blob/main/image/align.gif](https://github.com/Ding-JianGang/LG-Diff/blob/main/image/Result.jpg))
 
 ## Code download link for the control group
 AttentionGAN: Training and Testing are followed by https://github.com/Ha0Tang/AttentionGAN.
