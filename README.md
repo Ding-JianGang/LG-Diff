@@ -4,8 +4,9 @@ This is the PyTorch implementation of the color-to-thermal image translation. Th
 
 ## Prerequisites
     Linux or Win10 
-    Python 3 
-    NVIDIA GPU + CUDA CuDNN
+    Python ≥ 3.9 
+    NVIDIA GPU + CuDNN CUDA ≥ 11.3
+    GPU memory ≥ 40G
 
 ## Dataset
 
