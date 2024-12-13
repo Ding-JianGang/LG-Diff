@@ -1,14 +1,11 @@
 # LG-Diff
-Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-Domain High-Quality Translation
-This is the PyTorch implementation of the color-to-thermal image translation. The code is based on the PyTorch implementation of the Diffusers (https://github.com/huggingface/diffusers) and DiffIR (https://github.com/Zj-BinXia/DiffIR). We benefited a lot from this.
+This is the PyTorch implementation of the color-to-thermal image translation. Special thanks to the open source library DiffIR and Diffusers for helping build LG-Diff. The code is based on the PyTorch implementation of the Diffusers (https://github.com/huggingface/diffusers) and DiffIR (https://github.com/Zj-BinXia/DiffIR). We benefited a lot from this.
 
 ## Prerequisites
     Linux or Win10 
     Python ≥ 3.9 
     NVIDIA GPU + CuDNN CUDA ≥ 11.3
     GPU memory ≥ 40G
-
-## Dataset
 
 ## Demo-
 Demo- files is used to verify the effectiveness of the local class region guidance strategy on diffusers. It can be trained directly.
